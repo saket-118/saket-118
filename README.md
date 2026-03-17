@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate Machine Learning Engineer currently pursu
 
 ---
 
-## 🔧 Tech Stack & Tools
+## Tech Stack & Tools
 
 **Languages:**  
 `Python` `JavaScript` `C++` `HTML/CSS`
