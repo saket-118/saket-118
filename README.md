@@ -45,17 +45,10 @@ Designed a full-stack web application to optimize inventory and reduce stockouts
 
 ---
 
-## Currently Learning
-- Advanced deep learning (transformers, diffusion models)
-- MLOps practices (CI/CD for ML, MLflow)
-- Real-world cloud deployment on Azure & GCP
-
----
-
 ## Let’s Connect
 
 - [saketsai.padala@gmail.com](mailto:saketsai.padala@gmail.com)  
-- [LinkedIn](https://www.linkedin.com/in/saket-sai-padala/)  
+- [LinkedIn](https://www.linkedin.com/in/saketsai/)  
 
 
 ---
